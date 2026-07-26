@@ -1,0 +1,8 @@
+# backend
+backend/bin/
+*.env
+.env
+
+# OS/editor noise
+.DS_Store
+.vscode/
